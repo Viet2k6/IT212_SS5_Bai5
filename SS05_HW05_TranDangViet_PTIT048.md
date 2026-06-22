@@ -325,6 +325,4 @@ Thông qua Multiple Options, Trade-offs, What-if Scenario và Chain-of-Thought, 
 - Có cơ chế Fallback khi Redis gặp sự cố.
 - Phù hợp với các hệ thống tài chính thực tế.
 
-```
 
-```
